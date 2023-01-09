@@ -34,7 +34,7 @@ See all [Heroicons]
 
 #### Install
 ```bash
-composer require wireui/heroicons
+composer require designsensory/heroicons
 ```
 
 #### How to use it?
